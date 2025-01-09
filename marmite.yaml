@@ -1,6 +1,8 @@
 name: Your Blog
 tagline: Things you talk about
 url: https://ju14x.github.io/blog
+enable_search: true
+search_title: Search
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
