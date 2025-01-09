@@ -1,11 +1,11 @@
 name: Your Blog
 tagline: Things you talk about
-url: https://YOURUSER.github.io/blog
+url: https://ju14x.github.io/blog
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@YOURUSER"]
+  - ["Follow me", "https://bsky.app/profile/ju14x.bsky.social"]
   - ["Github", "https://github.com/rochacbruno/marmite"]
 
 
